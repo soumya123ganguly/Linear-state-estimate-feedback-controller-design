@@ -25,7 +25,7 @@ are the gains in operation in the MiP which has been attending MAE280A lectures.
 5. mIpParameters.m – MATLAB script defining the parameters of the MiP model for running the closed-loop nonlinear
 simulation.
 
-6.mIpCLwindy.slx – a closed-loop Simulink model of the nonlinear dynamics of the continuous-time MiP — inside the
+6. mIpCLwindy.slx – a closed-loop Simulink model of the nonlinear dynamics of the continuous-time MiP — inside the
 grayed box— with
 (i) input voltage to the motor,
 (ii) reference additive alteration to the MiP input voltage to create interesting closed-loop signals,
