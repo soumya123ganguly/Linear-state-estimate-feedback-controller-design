@@ -84,3 +84,12 @@ for a constant (bias is the constant offset value inside the sinusoidal source) 
 
 8. Explain how one would alter the design to return $\phi$ to zero at equilibrium – i.e. a homing MiP – first with
 a constant wind and secondly with a constant plus sinusoidal wind disturbance.
+
+
+# How to run the code to fulfill the tasks : 
+
+1. First run the command 'load mIpModel.mat' in the command window of MATLAB to load the model of MiP.
+2. Run TASK_CODE.m file to execute the tasks 0-8 (except task 7)
+3. For executing task 7, open the Simulink model files.  
+
+
