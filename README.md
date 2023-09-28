@@ -49,6 +49,7 @@ works similarly.. One can note that the nonlinear Simulink model includes a z-o-
 
 4. Try the K and L to compute new matrices KLDmIp, LLDmIp, ALCBKLDmIP as in mIpParameters.m
 and run the nonlinear Simulink closed-loop system.
+
 (i) Make sure that the equilibrium is as expected. To do this:
 i. Double-click (or Right-click and select Properties) on the reference and wind boxes and set the amplitudes
 and biases to zero.
